@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="QuizQuestion" load_steps=2 format=3 uid="uid://cmqf01b173e8"]
+
+[ext_resource type="Script" path="res://script/resources/question.gd" id="1_dt6ym"]
+
+[resource]
+script = ExtResource("1_dt6ym")
+question_info = "Qual a importância de definir metas financeiras para o futuro e como começar a planejar para atingi-las?"
+type = 0
+options = Array[String](["Não é importante, pois o futuro é incerto e difícil de planejar.", "Ajuda a organizar os gastos, priorizar objetivos e alcançar estabilidade financeira.", "Servir apenas para pessoas ricas que têm muitos recursos para gerenciar.", "Permite gastar sem controle, já que o planejamento elimina a necessidade de economia."])
+correct = "Ajuda a organizar os gastos, priorizar objetivos e alcançar estabilidade financeira."
